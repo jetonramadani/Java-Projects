@@ -1,4 +1,4 @@
-public class SimpleBot {
+public class SimpleBot1 {
     public static void main(String[] args) {
         String name = "Toni";
         int createdYear = 2024;
