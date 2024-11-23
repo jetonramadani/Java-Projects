@@ -8,3 +8,5 @@
         - Project Folder [here](003/%20Chuck%20Norris%20Cipher%20Encoder)
 004. [Zookeeper with Java](https://hyperskill.org/projects/229)
         - Project Folder [here](004/%20Zookeeper%20with%20Java)
+005. [Last Pencil](https://hyperskill.org/projects/341)
+        - Project Folder [here](005/%20Last%20Pencil)
