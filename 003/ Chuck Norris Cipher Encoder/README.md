@@ -1,3 +1,5 @@
+# [Chuck Norris Cipher Encoder](https://hyperskill.org/projects/293)
+
 ## What you'll learn
 Once you choose a project, we'll provide you with a study plan that includes all the necessary topics from your course to get it built. Here’s what awaits you:
 
