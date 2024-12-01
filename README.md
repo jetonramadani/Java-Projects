@@ -10,3 +10,5 @@
         - Project Folder [here](004/%20Zookeeper%20with%20Java)
 005. [Last Pencil](https://hyperskill.org/projects/341)
         - Project Folder [here](005/%20Last%20Pencil)
+006. [Simple Tic-Tac-Toe](https://hyperskill.org/projects/48)
+        - Project Folder [here](006/%20Simple%20Tic-Tac-Toe)
