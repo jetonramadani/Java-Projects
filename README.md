@@ -12,3 +12,5 @@
         - Project Folder [here](005/%20Last%20Pencil)
 006. [Simple Tic-Tac-Toe](https://hyperskill.org/projects/48)
         - Project Folder [here](006/%20Simple%20Tic-Tac-Toe)
+007. [Cinema Room Manager](https://hyperskill.org/projects/133)
+        - Project Folder [here](007/%20Cinema%20Room%20Manager)
