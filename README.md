@@ -18,3 +18,5 @@
         - Project Folder [here](008/%20Amazing%20Numbers)
 009. [Bulls and Cows](https://hyperskill.org/projects/53)
         - Project Folder [here](009/%20Bulls%20and%20Cows)
+010. [Coffee Machine Simulator with Java](https://hyperskill.org/projects/33)
+        - Project Folder [here](010/%20Coffee%20Machine%20Simulator)
