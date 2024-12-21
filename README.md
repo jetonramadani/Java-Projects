@@ -16,3 +16,5 @@
         - Project Folder [here](007/%20Cinema%20Room%20Manager)
 008. [Amazing Numbers](https://hyperskill.org/projects/184)
         - Project Folder [here](008/%20Amazing%20Numbers)
+009. [Bulls and Cows](https://hyperskill.org/projects/53)
+        - Project Folder [here](009/%20Bulls%20and%20Cows)
