@@ -21,4 +21,4 @@
 010. [Coffee Machine Simulator with Java](https://hyperskill.org/projects/33)
      - Project Folder [here](010/%20Coffee%20Machine%20Simulator)
 011. [Rock-Paper-Scissors](https://hyperskill.org/projects/314)
-     - Project Folder [here](011/%20Rock-Paper-Scissors)
+     - Project Folder [here](011/Rock-Paper-Scissors)
